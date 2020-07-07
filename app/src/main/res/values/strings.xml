@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">LibreriaUltimatum2019-2020</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Galeria</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="about">Acerca de</string>
+    <string name="exit">Salir</string>
+    <string name="libreria">Libreria El Buscador</string>
+    <string name="creadoPor">Creado por</string>
+    <string name="nombre">Bill</string>
+    <string name="apellidos">Gates</string>
+    <string name="web">Enlace a pagina web</string>
+    <string name="telefono">Llamalo</string>
+    <string name="email">Madale un email</string>
+
+
+    <string-array name="titulosLibros">
+        <item>Harry Potter y la camara secreta</item>
+        <item>Harry Potter y la piedra filosofal</item>
+        <item>Asterix y los Juegos Olimpicos</item>
+    </string-array>
+    <string-array name="descripcionLibros">
+        <item>Harry Potter y los estudiantes de segundo año investigan una malévola amenaza para sus compañeros de clases de Hogwarts.</item>
+        <item>El día de su cumpleaños, Harry Potter descubre que es hijo de dos conocidos hechiceros, de los que ha heredado poderes mágicos. Debe asistir a una famosa escuela de magia y hechicería, donde entabla una amistad con dos jóvenes que se convertirán en sus compañeros de aventura. Durante su primer año en Hogwarts, descubre que un malévolo y poderoso mago llamado Voldemort está en busca de una piedra filosofal que alarga la vida de quien la posee.</item>
+        <item>Astérix y Obélix tienen que ganar la Olimpiada para ayudar a su amigo a casarse con la princesa.</item>
+
+    </string-array>
+    <string name="jk">J.K. Rowling</string>
+    <string name="rene">René Goscinny</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
+
